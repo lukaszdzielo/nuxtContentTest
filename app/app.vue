@@ -2,15 +2,15 @@
   <div>
     <div>
       <div>1</div>
-      <img src="" alt="Logo" >
+      <img src="/public/pexels-eberhardgross-1062175.jpg" alt="Logo" >
     </div>
     <div>
       <div>2</div>
-      <NuxtImg src="/nuxt-icon.png" />
+      <NuxtImg src="/public/pexels-eberhardgross-1062175.jpg" />
     </div>
     <div>
       <div>3</div>
-      <NuxtPicture format="webp" src="/nuxt-icon.png" />
+      <NuxtPicture format="webp" src="/public/pexels-eberhardgross-1062175.jpg" />
     </div>
 
     <NuxtRouteAnnouncer />
